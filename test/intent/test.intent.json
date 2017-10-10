@@ -1,0 +1,7 @@
+{
+  "utterance": "what is the meaning of life",
+  "intent_type": "HelloWorldIntent",
+  "intent": {
+    "HelloWorldKeyword": "what is the meaning of life"
+  }
+}
