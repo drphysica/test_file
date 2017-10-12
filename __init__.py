@@ -19,7 +19,7 @@ class HelloWorldSkill(MycroftSkill):
                              self.handle_hello_world_intent)
 
     def handle_hello_world_intent(self, message):
-        self.speak_dialog("sample")
+        self.speak_dialog("speak")
 
     def stop(self):
         pass
