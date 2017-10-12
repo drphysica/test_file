@@ -1,7 +1,0 @@
-{
-  "utterance": "Test",
-  "intent_type": "HelloWorldIntent",
-  "intent": {
-    "HelloWorldKeyword": "test"
-  }
-}
