@@ -1,0 +1,7 @@
+{
+  "utterance": "Wake up",
+  "intent_type": "HelloWorldIntent",
+  "intent": {
+    "HelloWorldKeyword": "wake up"
+  }
+}
